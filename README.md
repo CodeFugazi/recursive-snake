@@ -220,9 +220,8 @@ gameLoop();
 
 This project demonstrates how to create a simple yet engaging snake game using recursion for continuous movement and boundary reflection. You can further expand this game by adding features like food for the snake to eat, growing the snake, and detecting collisions with its own tail.
 ## Resources
-
-    MDN Web Docs: Canvas API
-    JavaScript Info: Recursion
+[MDN Web Docs: Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+    
 
 ## Watch the Video
 
