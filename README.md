@@ -237,7 +237,4 @@ Don't forget to like, share, and subscribe for more coding tutorials!
 Follow me on Medium for more articles and tutorials:
 [Medium Profile](https://medium.com/@utkug3lu/)
 
-vbnet
-
-
 Feel free to customize the sections and links as needed!
